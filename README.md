@@ -9,3 +9,6 @@ Sample Git repo for SkillUp automation QA course
 - Volodymyr Dranivskyy
 
 - Tetyana Mozkova
+
+
+- Tetiana Yakymiuk
