@@ -4,7 +4,7 @@ Sample Git repo for SkillUp automation QA course
 
 ## Contributors: 
 
-- Viktor Maksymenko
+- Viktor Maksymenko (from 2 accounts :))
 
 - Volodymyr Dranivskyy
 
