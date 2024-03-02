@@ -14,3 +14,4 @@ Sample Git repo for SkillUp automation QA course
 - Tetiana Yakymiuk
 
 - Change by Alina Wayne
+
