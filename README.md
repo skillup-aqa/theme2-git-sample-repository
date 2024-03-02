@@ -6,6 +6,8 @@ Sample Git repo for SkillUp automation QA course
 
 - Viktor Maksymenko
 
+- Oleksandr (Sasha) Nedzelnytskyi
+
 - Volodymyr Dranivskyy
 
 - Tetyana Mozkova
