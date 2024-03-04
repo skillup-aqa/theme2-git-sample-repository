@@ -12,6 +12,8 @@ Sample Git repo for SkillUp automation QA course
 
 - Tetyana Mozkova
 
+- Slavik Aleksandruk
+
 
 - Tetiana Yakymiuk
 
