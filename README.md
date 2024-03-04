@@ -1,18 +1,21 @@
-# Sample Git repo
-
-Sample Git repo for SkillUp automation QA course
-
-## Contributors: 
-
-- Viktor Maksymenko
-
-- Oleksandr (Sasha) Nedzelnytskyi
-
-- Volodymyr Dranivskyy
-
-- Tetyana Mozkova
+Hello, World
 
 
-- Tetiana Yakymiuk
+Change for second commit
 
-- Change by Alina Wayne
+
+Changes for Branch A
+
+
+Second change for Branch A
+
+Change for Branch master
+
+Second change for Branch master
+
+Change for Branch B
+
+Second change for Branch B
+
+change for merge conflict
+
