@@ -20,4 +20,6 @@ Sample Git repo for SkillUp automation QA course
 - Change by Alina Wayne
 
 - Ivan Senkiv
-- 
+
+- Yuliia Petryshak 
+
