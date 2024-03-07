@@ -12,7 +12,14 @@ Sample Git repo for SkillUp automation QA course
 
 - Tetyana Mozkova
 
+- Slavik Aleksandruk
+
 
 - Tetiana Yakymiuk
 
 - Change by Alina Wayne
+
+- Ivan Senkiv
+
+- Yuliia Petryshak 
+
