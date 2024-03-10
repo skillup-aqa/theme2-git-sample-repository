@@ -23,5 +23,6 @@ Sample Git repo for SkillUp automation QA course
 
 - Yuliia Petryshak 
 
-- Vladyslav Vasylenko
+- Dmytro Povar
 
+- Vladyslav Vasylenko
